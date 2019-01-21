@@ -1056,7 +1056,7 @@ pre, .nocode{
 	background:#c7254e!important;
 	color:#fff!important;
 }
-/* 
+
 blockquote
 {
     font-size: 80% !important;
@@ -1070,9 +1070,9 @@ blockquote
     
     padding: 10px 20px;
     margin: 0 0 20px;
-    font-size: 17.5px;
+    font-size: 23px;
     border-left: none;
-} */
+}
 
 .updated{
 	display:block;
