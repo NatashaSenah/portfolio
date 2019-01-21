@@ -1057,7 +1057,7 @@ pre, .nocode{
 	color:#fff!important;
 }
 
-blockquote
+/* blockquote
 {
     font-size: 80% !important;
     page-break-inside: avoid;
@@ -1072,7 +1072,7 @@ blockquote
     margin: 0 0 20px;
     font-size: 17.5px;
     border-left: none;
-}
+} */
 
 .updated{
 	display:block;
