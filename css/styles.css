@@ -1405,3 +1405,7 @@ h3{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
 }
+.clip-image-1 {
+    -webkit-clip-path: circle(50% at 50% 50%);
+    clip-path: circle(50% at 50% 50%);
+  }
